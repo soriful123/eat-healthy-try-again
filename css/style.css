@@ -1,0 +1,220 @@
+body{
+   
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+    
+    
+}
+
+.helthy-man{
+    width: 50%;
+    
+}
+
+.flexible-container img{
+    width: 100%;
+    margin-left: -50px;
+
+}
+
+.orange-color{
+    color: orange;
+}
+
+.diet-title{
+    font-size: 50px;
+    font-weight: 900;
+    padding: 15%;
+    color: #575757;
+    margin-top: 120px;
+    margin-left: 0px;
+    margin-bottom: -5px;
+}
+
+.diet-imagine{
+    padding: 15%;
+    color: #828282;
+    margin-top: -200px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+    margin-bottom: -50px;
+
+}
+
+.order-btn{
+    padding: 20px 50px;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 100px;
+    border-radius: 100px;
+    font-size: 20px;
+    background-color: #FBA24F;
+    margin-top: -200px;
+    color: white;
+}
+
+
+/*  About me section */
+
+/* .container{
+    background: rgba(252, 143, 73, 0.1);;
+    display: flex;
+    height: 700px;
+    align-items: center;
+    margin-top: 50px;
+
+}
+
+.about-me{
+    width: 50%;
+    padding-right: 5%;
+    padding-left: 5%;
+    align-items: center;
+    margin-top: 100px;
+
+}
+.about-me img{
+    width: 100%;
+    padding: 5%5;
+    
+}
+
+.about-title{
+    font-size: 40px;
+    margin-top: -150px;
+} */
+
+
+
+/* .container{
+    display: flex;
+    background: rgba(252, 143, 73, 0.1);
+    
+}
+
+.half-width{
+    width: 50%;
+    padding-right: 5%;
+   font-size: 30p;
+   align-items: center;
+
+}
+
+.half-width img{
+    width: 80%;
+    margin-top: -50px;
+    
+}
+
+.about-me{
+    margin-top: 150px;
+} */
+
+
+
+
+.recipies{
+    width: auto;
+    text-align: center;
+   
+    font-size: 36px;
+    color: #676767;
+
+}
+
+
+.recipies-content{
+    font-size: 20px;
+    color: #252525;
+    font-family: sans-serif;
+    
+}
+.flexible{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.food-list{
+    width: 35%;
+    margin-left: 7%;
+    padding: 30px;
+    border-radius: 30px;
+    box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
+    
+    
+}
+
+.food-list img{
+    width: 100%;
+}
+
+.food-title{
+    color: #18191F;
+    font-size: 28px;
+    font-family: 'Montserrat';
+    font-weight: 800;
+}
+
+
+
+.subs-follow{
+    display: flex;
+    width: 80%;
+    margin-left: 9%;
+    padding: 2.5%;
+    box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+}
+
+.social{
+    width: 30%;
+    text-align: center;
+    align-items: center;
+    
+    
+}
+
+.member{
+    color: #18191F;
+    font-family: 'Montserrat';
+    font-size: 48px;
+}
+
+.follow{
+    color: #18191F;
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 16px;
+    margin-top: -35px;
+    
+}
+
+
+.additional-info{
+    background: #0B0D17;
+    height: 256px;
+}
+
+.footer{
+    text-align: center;
+    padding: 20px;
+    margin-top: 70px;
+}
+
+.footer h1{
+    color: #5B5B5B;
+    font-size: 30px;
+}
+
+.footer p{
+    color: #dbd0d0;
+    font-size: 16px;
+    font-weight: 300;
+    font-family: 'Courier New', Courier, monospace;
+}
